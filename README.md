@@ -13,4 +13,4 @@ A simple flashcard studying app built with React Native + Expo.
 ## How to run locally
 1. Clone repo
 ```bash
-git clone https://github.com/your-username/flashcard-quiz-app.git
+git clone https://github.com/your-Md_Sikandar_1250/flashcard-quiz-app.git
